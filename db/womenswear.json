@@ -1,38 +1,33 @@
 [
     {
-      "logo": "https://paris7masterculture.files.wordpress.com/2019/12/fenty.png?w=900",
-      "brand_name": "Fenty",
-      "CEO": "Robyn Rihanna Fenty",
+      "logo": "https://pbs.twimg.com/media/ESGxTqdXkAUIz0A.jpg",
+      "brand_name": "Thebe Magugu",
+      "CEO": "Thebe Magugu",
       "type": "High Fashion/ Luxury",
-      "price_point": "$$$$",
+      "price_point": "$$$",
       "categories": [
         {
           "category": "Tops",
           "products": [
             {
-              "name": "OVERSIZED PRINTED HOODIE `NO ALTERNATIVE HI-LIFE` Tangerine 300.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw982fd49e/product/image/R0347C4PR/800/5x6/oversized-printed-hoodie-no-alternative-hi-life-tangerine-1_748w.jpg",
-              "details": "Oversized hoodie in Psychedelic jersey, Light blue and purple gradient print in the back reading `No Alternative Hi-Life. 2am. Live on FENTY.com`, FENTY-engraved metal cord end-pieces in brushed steel finishing, Tonal FENTY embroidery on the hood, Unisex style, This style is meant to be oversized. If you wish to wear it in a more fitted way, pick one size smaller than usual, 100% cotton, Made in Portugal"
+              "name": "PROPHET FROM KIMBERLEY TEE Red 90.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/7M1HASRLe44fHWLoi44A5M/6eacce77a9d9e8cc019432313ff5168b/5A.jpg?w=960&h=1279&q=50",
+              "details": "This boxy red tee in 100% South African cotton features a print of a popular poster found in Downtown Johannesburg, screen printed in an off-white colour. A small brown tape holds the poster up"
+              },
+              {
+              "name": "NAVY SISTERHOOD HOODIE Blue 260.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/InhngktyzSWEl36r026Nw/a9b20e799ad6c802f30cf34952640df7/8A.jpg?w=960&h=1279&q=50",
+              "details": "This plush boxy hoodie is emblazoned with a distressed iteration of our Sisterhood Emblem. The hoodie features a pronounced kangaroo pocket on the front hem. Finished with matching ribbing on all hems"
             },
             {
-              "name": "XLONG SLEEVE STRETCH TULLE T-SHIRT Purple Flame 300.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw73020e2e/product/image/R0349P2PR/800/5x6/xlong-sleeve-stretch-tulle-t-shirt-purple-flame-1_748w.jpg",
-              "details": "T-shirt in Purple Flame striped print, Extra long sleeves meant to be worn pleated on the wrists, Body-hugging fit, Crew neckline, Each piece of this style is unique. Random placement of the print allows individuality, meaning the pattern and colors of this style could vary from one piece to another, Main fabric: 93% polyamide 7% elastane, Second fabric: 95% polyester 5% elastane, Made in Italy"
+              "name": "LONGLINE SISTERHOOD GOLFER DRESS Blue 295.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/4uaIkNPlhEAYQLOc34HtVX/c2f1385e64d5912250cf69a9c0ed8003/1A.jpg?w=960&h=1279&q=50",
+              "details": "The Sisterhood Golfer Dress is emblazoned with the Sisterhood Emblem on its center front with straps that emerge from the side seam for proportion shifting. The straps may either be left hanging or tie towards the back. White banding on the sleeve and button-stand frame the dress"
             },
             {
-              "name": "OVERSIZED DENIM JACKET Coco White or Indigo 1,100.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw3a67155f/product/image/R0011C5WS/410/5x6/oversized-denim-jacket-indigo-1_748w.jpg",
-              "details": "This style is meant to be oversized. If you wish to wear it in a more fitted way, pick one size smaller than usual, Oversized denim jacket in Indigo, Front zipper and monogrammed snap buttons, Two gusseted flap pockets on the chest and one on each sleeve, Oversized gusset in the back, Pointy collar, Contrast topstitching, FENTY-engraved buttons and rivets, Unisex style, 100% cotton, Made in Italy"
-            },
-            {
-              "name": "OFF SHOULDER SHEER DRESS Jet Black 660.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwf6a02bbd/product/image/R0300S2CL/001/5x6/off-shoulder-sheer-dress-jet-black-1_748w.jpg",
-              "details": "Midi dress in Jet Black sheer silk, Asymmetrical cut with a strap falling down on the left shoulder, Pointy cut at the bottom of the dress, 100% silk, Made in Italy"
-            },
-            {
-              "name": "TRENCH-INSPIRED PARKA Camo Green & Beige or Burnt Orange 1,660.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw5269cb42/product/image/R0267C5CL/250/5x6/trench-inspired-parka-camo-green-beige-1_748w.jpg",
-              "details": "Parka and trench mix long coat, Dual-fabric and bicolor construction in Camo Green and Beige, Straight oversized fit, Front zipper and monogrammed snap buttons, Long sleeves with slouchy shoulders, Unisex style, Main fabric: 64% cotton 36% nylon, Second fabric: 100% cotton, Made in Slovakia, This style is meant to be worn oversized. If you wish to wear it tighter, pick one size smaller than usual"
+              "name": "Name: SLEEVELESS COLLARBONE KNITTED DRESS Black 675.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/DIjAAgcZGroRlCtbEVVIk/3e4897680ecda96afddc6fee9b4bd208/2A.jpg?w=960&h=1279&q=50",
+              "details": "This sensual fine-rib knitted dress features a dropped hip, which flares out into technical knitted pleats that end mid-calf. A scooped neckline reveals the collarbone, and a turtleneck is grown on from the back, creating a sophisticated New Victoria neckline"
             }
           ]
         },
@@ -40,29 +35,24 @@
           "category": "Bottoms",
           "products": [
             {
-              "name": "PRINTED XLONG LEGGINGS Psychedelic 300.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwcedb9a53/product/image/R0319V2PR/300/5x6/printed-xlong-leggings-psychedelic-1_748w.jpg",
-              "details": "Leggings in Psychedelic print, Extra long legs meant to be worn pleated to cover your shoes, Body-hugging fit, Mid-rise cut, 95% viscose, 5% elastane, Made in Tunisia, Each piece of this style is unique. Random placement of the print allows individuality, meaning the pattern and colors of this style could vary from one piece to another"
+              "name": "SISTERHOOD SHORTS Navy 240.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/InhngktyzSWEl36r026Nw/a9b20e799ad6c802f30cf34952640df7/8A.jpg?w=811&h=1080&q=70",
+              "details": "These knee-length pair of boxy shorts are emblazoned with a small stamp of our Sisterhood Emblem on the bottom right hem. The elasticated waistband features a drawcord for further fit adjustment"
             },
             {
-              "name": "JERSEY JOGGERS Jet Black or Tangerine 280.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw78c642c3/product/image/R0346C4CL/001/5x6/jersey-joggers-jet-black-1_748w.jpg",
-              "details": "Cotton jersey sweatpants in Jet Black, Mid-rise cut, Tonal drawstring at the waist, Two side pockets and one back pocket, Unisex style, Tonal FENTY embroidery on the left side, Tonal monogram embroidery below the right pocket, 100% cotton, Made in Portugal"
+              "name": "STRAPPY SISTERHOOD GOLFERS Tangerine 250.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/3onGroLabb7LRPWJgn0MT7/071120dc50d9323890402d8e40c5a718/11A.jpg?w=960&h=1279&q=50",
+              "details": "This season’s classic Unisex Sisterhood Golfers gets a colour and detail update. Available in Tangerine and Baby Blue, the golfers now have straps that emerge from the side seam for proportion shifting. The straps may either be left hanging or tie towards the back"
             },
             {
-              "name": "Super Mini Denim Shorts Indigo 220.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw75a52497/product/image/R0293C5CL/410/5x6/super-mini-denim-shorts-indigo-1_748w.jpg",
-              "details": "Super mini denim shorts in Indigo, 5-pocket styling, Contrast topstitching, Mid-rise cut, 98% cotton, 2% elastane, Made in Tunisia"
+              "name": "OLIVE KNITTED TROUSERS Olive 250.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/45n4JkuhXVS8xmUmpxnqny/ec3ec23443df79b8ff23c1ea9d30f00f/13A.jpg?w=960&h=1279&q=50",
+              "details": "This pair of wide-leg culotte-style knitted trousers comes in an olive colour, which features stitched-in front creaselines. The elasticated waistband features a knitted draw-cord for additional fit"
             },
             {
-              "name": "XLONG WIDE SATIN PANTS Jet Black 970.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwf63096a2/product/image/R0239A4CL/001/5x6/xlong-wide-satin-pants-jet-black-1_748w.jpg",
-              "details": "Wide leg pants in Jet Black satin, High rise cut, Front zipper with closing hooks, Belt loops, One back pocket with piping, 66% acetate, 34% viscose, Made in Slovakia"
-            },
-            {
-              "name": "DENIM CORSET SKIRT Coco White or Indigo 360.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw51bdecb3/product/image/R0016C5WS/100/5x6/denim-corset-skirt-coco-white-1_748w.jpg",
-              "details": "Denim mini skirt in Coco White, Fitted cut, Curved side cut-outs, Tonal topstitching, FENTY-engraved button, Belt loops, 100% cotton, Made in Italy"
+              "name": "SISTERHOOD KNIT GOLFER Black and White 295.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/Q9Npy9vQwJRJOutnGcu3J/fbfcf6c7c4d39e23a27b9083146c3bee/Sisterhood_Knitted_Golfer_1W.jpg?w=960&h=1279&q=50",
+              "details": "A unisex wool-blend golfer emblazoned with the sisterhood logo on its center front, with black and white banding on the sleeve and body hems"
             }
           ]
         },
@@ -70,29 +60,24 @@
           "category": "Shoes",
           "products": [
             {
-              "name": "CAGED IN SANDALS 105 Coco White or Candy Pink 740.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwbd3a536c/product/image/S0332L2PT/650/5x6/caged-in-sandals-105-candy-pink-1_748w.jpg",
-              "details": "High-heeled sandals in Candy Pink lambskin, Intertwined thin leather straps, Square toe, Leather-lined inner sole with comfort foam, Monogrammed outer sole, Heel height: 10.5 cm / 4.1 inches, 100% nappa lambskin, Made in Italy"
+              "name": "SUNDAY BEST BOOT- ANKLE LENGTH Black 999.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/1ljC9QYs1DWTE8ku5TMRVA/63c81c397da8147c82c29294a6f268d9/SHOE-1-A.jpg?w=960&h=1344&q=50",
+              "details": "The brands first shoe offering is titled the Sunday Best Boot, and is available in an ankle length and a knee length. The boot takes elements from a loafer, and features a severely pointed toe - inspired by the elongated shoes pastors wear in downtown Johannesburg and the shape of 15th Century Cracow shoes. The shoes feature our brand’s logo - the Sisterhood Emblem - attached to its front, crafted in a domed stainless steel. The heel takes on an angular wedge shape that grows out in a trapeze fashion towards the ground. The shoe’s sole is stamped with the brand’s monogram"
             },
             {
-              "name": "HITCH HIKER BOOTS Black & Green or Coco White 730.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw34d688c4/product/image/S0263L5MT/001/5x6/hitch-hiker-boots-black-flash-green-1_748w.jpg",
-              "details": "Lace up boots in Black rubber leather, Contrasting Flash Green laces, eyelets, hooks, piping and topstitching, Rounded toe, Main fabric and inner sole: 100% rubber calfskin, Lining: 100% polyester, Outer sole: 100% rubber, Made in Italy"
+              "name": "SUNDAY BEST BOOT- KNEE LENGTH Black 1299.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/5DS96L7bD8Qx5sZ6KWqj3B/0bffa03eb4d8849bcc199d42de595392/SHOE-04-A.jpg?w=960&h=1344&q=50",
+              "details": "The brands first shoe offering is titled the Sunday Best Boot, and is available in an ankle length and a knee length. The boot takes elements from a loafer, and features a severely pointed toe - inspired by the elongated shoes pastors wear in downtown Johannesburg and the shape of 15th Century Cracow shoes. The shoes feature our brand’s logo - the Sisterhood Emblem - attached to its front, crafted in a domed stainless steel. The heel takes on an angular wedge shape that grows out in a trapeze fashion towards the ground. The shoe’s sole is stamped with the brand’s monogram"
             },
             {
-              "name": "CORSET BOOTS 105 Jet Black or Coco White 990.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw98bd8e31/product/image/S0156V2CL/001/5x6/corset-boots-105-jet-black-1_748w.jpg",
-              "details": "Rubber boots in Jet Black, Front-hook closing, Extended pointy toe, Leather-lined inner sole with comfort foam, Monogrammed slip pad, Heel height: 10.5 cm / 4 inches, 84% viscose, 11% polyamid, 5% elastane, Made in Italy"
+              "name": "",
+              "image_url": "",
+              "details": ""
             },
             {
-              "name": "CODE WORD SANDALS 105 Coco White and Acid Green 570.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw453048c9/product/image/S0330C9PT/300/5x6/code-word-sandals-105-acid-green-1_748w.jpg",
-              "details": "High-heeled sandals in Acid Green lambskin, Intertwined leather straps, PVC support strap, Square toe, Leather-lined inner sole with comfort foam, Monogrammed outer sole, Heel height: 10.5 cm / 4.1 inches, 100% nappa lambskin, Made in Italy"
-            },
-            {
-              "name": "COWGIRL HOOKUP SANDALS 105 Jet Black 870.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw4e874157/product/image/S0250L5SU/001/5x6/cowgirl-hookup-sandals-105-jet-black-2_748w.jpg",
-              "details": "Crystal-embellished high heel post-toe sandals in Jet Black suede, Suede laces, Square toe, Leather-lined inner sole with comfort foam, Monogrammed slip pad, T-Heel height: 10.5 cm / 4 inches ,100% goatskin suede, Made in Italy"
+              "name": "",
+              "image_url": "",
+              "details": ""
             }
           ]
         },
@@ -100,34 +85,29 @@
           "category": "Accessories",
           "products": [
             {
-              "name": "BLOCKT II MASK Jet Black or Coco White 440.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw5a2a4ea6/product/image/A0356A4CL/001/5x6/blockt-ii-mask-jet-black-2_748w.jpg",
-              "details": "Oversized mask, Jet Black acetate frame, Black tinted nylon lenses, Wide FENTY-engraved temples with golden monogram, Monogrammed tips, Lenses fixed to frame with small golden studs, Sun lens filter category: 3, Frame height: 6.6 cm / 2.6 inches, Frame width: 15.2 cm / 6 inches, Sold in a semi-rigid case with a microfiber cloth for lense maintenance, Made in Italy"
+              "name": "CONFIDENTIAL SATIN ENVELOPES 130.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/pnBowsQEBbgPFzn7QDSb7/10574994da0a9bf0ddfdd57141df1951/3.jpg?w=960&h=640&q=50",
+              "details": "Satin Pouch Bag which references the covert nature of SS21's Counter Intelligence theme. The pouch is fully lined and closes via a flap and press stud"
             },
             {
-              "name": "SIDE-EYE SUNGLASSES Silver or Gold 720.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwf98a6ce0/product/image/A0234N1CL/710/5x6/side-eye-sunglasses-gold-1_748w.jpg",
-              "details": "Butterfly sunglasses, FENTY-engraved nylon lenses in Gold, Gold-tone jewel frame embellished with Swarovski® crystals, Ear cuff-inspired curved design that wraps around the ear, Crystal end tips whith inner FENTY engraving, Adjustable nose pads, Sun lens filter category: 3, Frame height: 5.7 cm / 2.3 inches, Frame width: 14.6 cm / 5.7 inches, Sold in a semi-rigid case with a microfiber cloth for lense maintenance, Made in Italy"
+              "name": "SISTERHOOD WOOL BERETS Yellow or Cerise or Navy or Ivory 250.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/4AKXPDaZpDMd3XtKeJ07pR/3f188e7db02f987244fc18366450d086/LOOK_4.1.jpg?w=960&h=1440&q=50",
+              "details": "Hand-crafted wool berets feature our stainless steel Sisterhood Emblem"
             },
             {
-              "name": "ROPED IN EARCUFFS LONG LEFT Crystal or Peach 230.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw6aa1941d/product/image/A0230B2GG/680/5x6/roped-in-earcuffs-long-left-peach-1_748w.jpg",
-              "details": "Rose gold-tone ear cuff embellished with Swarovski® crystals, Sold alone for the left ear, Curved design that wraps around the ear, On the upper part of the ear: crystal embellishment and drop-shaped crystal pendant, On the lower part of the ear: crystal embellishment and rectangular crystal pendant, S: 52 mm / 2 inches ear height, M: 58.5mm / 2.3 inches ear height, L: 65 mm / 2.6 inches ear height, Galvanized brass and Swarovski® crystals, Made in Italy"
+              "name": "SISTERHOOD SHERIFFS HATS Navy or Olive 375.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/63TSTVTrgNEI0mYtjGcYYe/50cd1ae24ca14c619fca2bcfbab9f05b/LOOK_12.1.jpg?w=960&h=1440&q=50",
+              "details": "Hand-crafted wool strappy fedora hats feature our stainless steel Sisterhood Emblem"
             },
             {
-              "name": "BLACK TIE BUCKET HAT Jet Black 330.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw3851b479/product/image/A0231P2CL/001/5x6/black-tie-bucket-hat-jet-black-1_748w.jpg",
-              "details": "Bucket hat in Jet Black water-repellent nylon, Quilted brim with FENTY logo on left side, Removable jewel chain with several types of crystals, Each hat comes with a styling guide for the chain, Unisex style, 100% nylon, Made in Italy"
-            },
-            {
-              "name": "HOODIE CHARMS Silver or Gold 105.00 USD",
-              "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw2c40b6f6/product/image/A0328B2GS/710/5x6/hoodie-charms-gold-1_748w.jpg",
-              "details": "Gold-tone hoodie jewels, Crystal-paved beads, Engraved FENTY monogram, Sold in pairs, Glass crystals and brass, Made in Thailand"
+              "name": "LEATHER BODY HOLSTERS 750.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/4RmacGzHCYmyVMuTXdfz2r/63a8db57a53fd6a9f50cbbf5b6e6456f/LOOK_9.1.jpg?w=960&h=1440&q=50",
+              "details": "A cross body leather holster with adjustable chest strap and a stamped side pocket. The holster comes with a removable waist belt, which can be used separately"
             }
           ]
         }
       ],
-      "link": "https://www.fenty.com/us/en/home"
+      "link": "https://www.thebemagugu.com/"
     },
     {
       "logo": "https://images.squarespace-cdn.com/content/v1/5b1482661137a6d3c0a32e72/1550308498933-Z6H2RMITLEZA9K8WDAWI/ke17ZwdGBToddI8pDm48kJw6D7o4-Lunq7pTkCzRLeRZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVF0cE_5f9bjoCM8HBO2W_3lYNM2sli-m9zh-BEtcb-BHKchIJmbV0zSlDpU-SKtj1I/IMG_5610.JPG?format=1500w",
@@ -350,11 +330,11 @@
       "link": "https://fenoel.com/"
     },
     {
-      "logo": "https://cdn.shopify.com/s/files/1/1280/6143/files/checkout_logo_5_large.png?v=1472609776",
+      "logo": "https://cdn.shopify.com/s/files/1/0669/9705/files/fenoel-logo_9916db6d-3e9c-48db-aa8d-7ea034a956a8.png?height=628&pad_color=fff&v=1623179119&width=1200",
       "brand_name": "Muurswag",
       "CEO": "Venus Austin",
       "type": "Street Wear",
-      "price_point": "$$$",
+      "price_point": "$$",
       "categories": [
         {
           "category": "Tops",
