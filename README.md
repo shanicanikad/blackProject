@@ -1,15 +1,14 @@
-# groupproject8
 BLACK LIVES MATTER ✊🏾 ✊🏾 ✊🏾
 
 
-"You Just Entered The Black Experience"
+"You Are Now Entering The Black Experience"
 
 Welcome to the Black Excellence/ Black Fashion Project!
 
 
-Here, (https://blk-experience.vercel.app/) the user enters the landing page where the user can chose between shopping the womens or mens collection.  
+Here, (https://blackfashionproject.netlify.app/) the user enters the landing page where the user can chose between shopping the womens or mens collection.  
 
-When the user clicks on 'Shop Men's', the user will be redirected to the men's fashion collection page (https://blk-experience.vercel.app/men). When the user clicks on the 'Shop Women's, the user will be redirected to the women's fashion collection page (https://blk-experience.vercel.app/women). 
+When the user clicks on 'Shop Men's', the user will be redirected to the men's fashion collection page (https://blackfashionproject.netlify.app/menswear). When the user clicks on the 'Shop Women's, the user will be redirected to the women's fashion collection page (https://blackfashionproject.netlify.app/womenswear). 
 
 At the top of the page is the nav bar. Here, the user can navigate between four different buttons: 'Home', 'Women's', 'Men's', and 'Create Brand'. The user can go back to the landing page by clicking 'Home', can be directed to either the men's or women's collections, or the user can make their own brand (The user can do this by clicking 'Create Brand' and filling out the provided form to create a brand).
 
