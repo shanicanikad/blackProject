@@ -1,6 +1,6 @@
 [
     {
-      "logo": "https://pbs.twimg.com/media/ESGxTqdXkAUIz0A.jpg",
+      "logo1": "https://pbs.twimg.com/media/ESGxTqdXkAUIz0A.jpg",
       "brand_name": "Thebe Magugu",
       "CEO": "Thebe Magugu",
       "type": "High Fashion/ Luxury",
@@ -100,7 +100,7 @@
       "link": "https://www.thebemagugu.com/"
     },
     {
-      "logo": "https://images.squarespace-cdn.com/content/v1/5b1482661137a6d3c0a32e72/1550308498933-Z6H2RMITLEZA9K8WDAWI/ke17ZwdGBToddI8pDm48kJw6D7o4-Lunq7pTkCzRLeRZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVF0cE_5f9bjoCM8HBO2W_3lYNM2sli-m9zh-BEtcb-BHKchIJmbV0zSlDpU-SKtj1I/IMG_5610.JPG?format=1500w",
+      "logo2": "https://images.squarespace-cdn.com/content/v1/5b1482661137a6d3c0a32e72/1550308498933-Z6H2RMITLEZA9K8WDAWI/ke17ZwdGBToddI8pDm48kJw6D7o4-Lunq7pTkCzRLeRZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVF0cE_5f9bjoCM8HBO2W_3lYNM2sli-m9zh-BEtcb-BHKchIJmbV0zSlDpU-SKtj1I/IMG_5610.JPG?format=1500w",
       "brand_name": "LaQuan Smith",
       "CEO": "LaQuan Smith",
       "type": "High Fashion/ Luxury",
@@ -210,7 +210,7 @@
       "link": "https://laquansmith.com/"
     },
     {
-      "logo": "https://cdn.shopify.com/s/files/1/0669/9705/files/fenoel-logo_9916db6d-3e9c-48db-aa8d-7ea034a956a8.png?height=628&pad_color=fff&v=1623179119&width=1200",
+      "logo3": "https://cdn.shopify.com/s/files/1/0669/9705/files/fenoel-logo_9916db6d-3e9c-48db-aa8d-7ea034a956a8.png?height=628&pad_color=fff&v=1623179119&width=1200",
       "brand_name": "Fe Noel",
       "CEO": "Felisha Noel",
       "type": "High Fashion/ Luxury",
@@ -290,7 +290,7 @@
       "link": "https://fenoel.com/"
     },
     {
-      "logo": "https://cdn.shopify.com/s/files/1/1280/6143/files/checkout_logo_5_large.png?v=1472609776",
+      "logo4": "https://cdn.shopify.com/s/files/1/1280/6143/files/checkout_logo_5_large.png?v=1472609776",
       "brand_name": "Muurswag",
       "CEO": "Venus Austin",
       "type": "Street Wear",
