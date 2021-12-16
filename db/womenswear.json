@@ -1,418 +1,403 @@
 [
     {
-      "logo1": "https://pbs.twimg.com/media/ESGxTqdXkAUIz0A.jpg",
-      "brand_name1": "Thebe Magugu",
-      "CEO1": "Thebe Magugu",
-      "type1": "High Fashion/ Luxury",
-      "price_point1": "$$$",
-      "categories1": [
+      "logo": "https://pbs.twimg.com/media/ESGxTqdXkAUIz0A.jpg",
+      "brand_name": "Thebe Magugu",
+      "CEO": "Thebe Magugu",
+      "type": "High Fashion/ Luxury",
+      "price_point": "$$$",
+      "categories": [
         {
-          "category1": "Tops",
-          "products1": [
+          "category": "Tops",
+          "products": [
             {
-              "name1": "PROPHET FROM KIMBERLEY TEE Red 90.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/7M1HASRLe44fHWLoi44A5M/6eacce77a9d9e8cc019432313ff5168b/5A.jpg?w=960&h=1279&q=50",
-              "details1": "This boxy red tee in 100% South African cotton features a print of a popular poster found in Downtown Johannesburg, screen printed in an off-white colour. A small brown tape holds the poster up"
+              "name": "PROPHET FROM KIMBERLEY TEE Red 90.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/7M1HASRLe44fHWLoi44A5M/6eacce77a9d9e8cc019432313ff5168b/5A.jpg?w=960&h=1279&q=50",
+              "details": "This boxy red tee in 100% South African cotton features a print of a popular poster found in Downtown Johannesburg, screen printed in an off-white colour. A small brown tape holds the poster up"
               },
               {
-              "name1": "NAVY SISTERHOOD HOODIE Blue 260.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/InhngktyzSWEl36r026Nw/a9b20e799ad6c802f30cf34952640df7/8A.jpg?w=960&h=1279&q=50",
-              "details1": "This plush boxy hoodie is emblazoned with a distressed iteration of our Sisterhood Emblem. The hoodie features a pronounced kangaroo pocket on the front hem. Finished with matching ribbing on all hems"
+              "name": "NAVY SISTERHOOD HOODIE Blue 260.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/InhngktyzSWEl36r026Nw/a9b20e799ad6c802f30cf34952640df7/8A.jpg?w=960&h=1279&q=50",
+              "details": "This plush boxy hoodie is emblazoned with a distressed iteration of our Sisterhood Emblem. The hoodie features a pronounced kangaroo pocket on the front hem. Finished with matching ribbing on all hems"
             },
             {
-              "name1": "LONGLINE SISTERHOOD GOLFER DRESS Blue 295.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/4uaIkNPlhEAYQLOc34HtVX/c2f1385e64d5912250cf69a9c0ed8003/1A.jpg?w=960&h=1279&q=50",
-              "details1": "The Sisterhood Golfer Dress is emblazoned with the Sisterhood Emblem on its center front with straps that emerge from the side seam for proportion shifting. The straps may either be left hanging or tie towards the back. White banding on the sleeve and button-stand frame the dress"
+              "name": "LONGLINE SISTERHOOD GOLFER DRESS Blue 295.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/4uaIkNPlhEAYQLOc34HtVX/c2f1385e64d5912250cf69a9c0ed8003/1A.jpg?w=960&h=1279&q=50",
+              "details": "The Sisterhood Golfer Dress is emblazoned with the Sisterhood Emblem on its center front with straps that emerge from the side seam for proportion shifting. The straps may either be left hanging or tie towards the back. White banding on the sleeve and button-stand frame the dress"
             },
             {
-              "name1": "Name: SLEEVELESS COLLARBONE KNITTED DRESS Black 675.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/DIjAAgcZGroRlCtbEVVIk/3e4897680ecda96afddc6fee9b4bd208/2A.jpg?w=960&h=1279&q=50",
-              "details1": "This sensual fine-rib knitted dress features a dropped hip, which flares out into technical knitted pleats that end mid-calf. A scooped neckline reveals the collarbone, and a turtleneck is grown on from the back, creating a sophisticated New Victoria neckline"
+              "name": "Name: SLEEVELESS COLLARBONE KNITTED DRESS Black 675.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/DIjAAgcZGroRlCtbEVVIk/3e4897680ecda96afddc6fee9b4bd208/2A.jpg?w=960&h=1279&q=50",
+              "details": "This sensual fine-rib knitted dress features a dropped hip, which flares out into technical knitted pleats that end mid-calf. A scooped neckline reveals the collarbone, and a turtleneck is grown on from the back, creating a sophisticated New Victoria neckline"
             }
           ]
         },
         {
-          "category1": "Bottoms",
-          "products1": [
+          "category": "Bottoms",
+          "products": [
             {
-              "name1": "SISTERHOOD SHORTS Navy 240.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/InhngktyzSWEl36r026Nw/a9b20e799ad6c802f30cf34952640df7/8A.jpg?w=811&h=1080&q=70",
-              "details1": "These knee-length pair of boxy shorts are emblazoned with a small stamp of our Sisterhood Emblem on the bottom right hem. The elasticated waistband features a drawcord for further fit adjustment"
+              "name": "SISTERHOOD SHORTS Navy 240.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/InhngktyzSWEl36r026Nw/a9b20e799ad6c802f30cf34952640df7/8A.jpg?w=811&h=1080&q=70",
+              "details": "These knee-length pair of boxy shorts are emblazoned with a small stamp of our Sisterhood Emblem on the bottom right hem. The elasticated waistband features a drawcord for further fit adjustment"
             },
             {
-              "name1": "STRAPPY SISTERHOOD GOLFERS Tangerine 250.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/3onGroLabb7LRPWJgn0MT7/071120dc50d9323890402d8e40c5a718/11A.jpg?w=960&h=1279&q=50",
-              "details1": "This season’s classic Unisex Sisterhood Golfers gets a colour and detail update. Available in Tangerine and Baby Blue, the golfers now have straps that emerge from the side seam for proportion shifting. The straps may either be left hanging or tie towards the back"
+              "name": "STRAPPY SISTERHOOD GOLFERS Tangerine 250.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/3onGroLabb7LRPWJgn0MT7/071120dc50d9323890402d8e40c5a718/11A.jpg?w=960&h=1279&q=50",
+              "details": "This season’s classic Unisex Sisterhood Golfers gets a colour and detail update. Available in Tangerine and Baby Blue, the golfers now have straps that emerge from the side seam for proportion shifting. The straps may either be left hanging or tie towards the back"
             },
             {
-              "name1": "OLIVE KNITTED TROUSERS Olive 250.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/45n4JkuhXVS8xmUmpxnqny/ec3ec23443df79b8ff23c1ea9d30f00f/13A.jpg?w=960&h=1279&q=50",
-              "details1": "This pair of wide-leg culotte-style knitted trousers comes in an olive colour, which features stitched-in front creaselines. The elasticated waistband features a knitted draw-cord for additional fit"
+              "name": "OLIVE KNITTED TROUSERS Olive 250.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/45n4JkuhXVS8xmUmpxnqny/ec3ec23443df79b8ff23c1ea9d30f00f/13A.jpg?w=960&h=1279&q=50",
+              "details": "This pair of wide-leg culotte-style knitted trousers comes in an olive colour, which features stitched-in front creaselines. The elasticated waistband features a knitted draw-cord for additional fit"
             },
             {
-              "name1": "SISTERHOOD KNIT GOLFER Black and White 295.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/Q9Npy9vQwJRJOutnGcu3J/fbfcf6c7c4d39e23a27b9083146c3bee/Sisterhood_Knitted_Golfer_1W.jpg?w=960&h=1279&q=50",
-              "details1": "A unisex wool-blend golfer emblazoned with the sisterhood logo on its center front, with black and white banding on the sleeve and body hems"
+              "name": "SISTERHOOD KNIT GOLFER Black and White 295.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/Q9Npy9vQwJRJOutnGcu3J/fbfcf6c7c4d39e23a27b9083146c3bee/Sisterhood_Knitted_Golfer_1W.jpg?w=960&h=1279&q=50",
+              "details": "A unisex wool-blend golfer emblazoned with the sisterhood logo on its center front, with black and white banding on the sleeve and body hems"
             }
           ]
         },
         {
-          "category1": "Shoes",
-          "products1": [
+          "category": "Shoes",
+          "products": [
             {
-              "name1": "SUNDAY BEST BOOT- ANKLE LENGTH Black 999.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/1ljC9QYs1DWTE8ku5TMRVA/63c81c397da8147c82c29294a6f268d9/SHOE-1-A.jpg?w=960&h=1344&q=50",
-              "details1": "The brands first shoe offering is titled the Sunday Best Boot, and is available in an ankle length and a knee length. The boot takes elements from a loafer, and features a severely pointed toe - inspired by the elongated shoes pastors wear in downtown Johannesburg and the shape of 15th Century Cracow shoes. The shoes feature our brand’s logo - the Sisterhood Emblem - attached to its front, crafted in a domed stainless steel. The heel takes on an angular wedge shape that grows out in a trapeze fashion towards the ground. The shoe’s sole is stamped with the brand’s monogram"
+              "name": "SUNDAY BEST BOOT- ANKLE LENGTH Black 999.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/1ljC9QYs1DWTE8ku5TMRVA/63c81c397da8147c82c29294a6f268d9/SHOE-1-A.jpg?w=960&h=1344&q=50",
+              "details": "The brands first shoe offering is titled the Sunday Best Boot, and is available in an ankle length and a knee length. The boot takes elements from a loafer, and features a severely pointed toe - inspired by the elongated shoes pastors wear in downtown Johannesburg and the shape of 15th Century Cracow shoes. The shoes feature our brand’s logo - the Sisterhood Emblem - attached to its front, crafted in a domed stainless steel. The heel takes on an angular wedge shape that grows out in a trapeze fashion towards the ground. The shoe’s sole is stamped with the brand’s monogram"
             },
             {
-              "name1": "SUNDAY BEST BOOT- KNEE LENGTH Black 1299.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/5DS96L7bD8Qx5sZ6KWqj3B/0bffa03eb4d8849bcc199d42de595392/SHOE-04-A.jpg?w=960&h=1344&q=50",
-              "details1": "The brands first shoe offering is titled the Sunday Best Boot, and is available in an ankle length and a knee length. The boot takes elements from a loafer, and features a severely pointed toe - inspired by the elongated shoes pastors wear in downtown Johannesburg and the shape of 15th Century Cracow shoes. The shoes feature our brand’s logo - the Sisterhood Emblem - attached to its front, crafted in a domed stainless steel. The heel takes on an angular wedge shape that grows out in a trapeze fashion towards the ground. The shoe’s sole is stamped with the brand’s monogram"
+              "name": "SUNDAY BEST BOOT- KNEE LENGTH Black 1299.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/5DS96L7bD8Qx5sZ6KWqj3B/0bffa03eb4d8849bcc199d42de595392/SHOE-04-A.jpg?w=960&h=1344&q=50",
+              "details": "The brands first shoe offering is titled the Sunday Best Boot, and is available in an ankle length and a knee length. The boot takes elements from a loafer, and features a severely pointed toe - inspired by the elongated shoes pastors wear in downtown Johannesburg and the shape of 15th Century Cracow shoes. The shoes feature our brand’s logo - the Sisterhood Emblem - attached to its front, crafted in a domed stainless steel. The heel takes on an angular wedge shape that grows out in a trapeze fashion towards the ground. The shoe’s sole is stamped with the brand’s monogram"
             }
           ]
         },
         {
-          "category1": "Accessories",
-          "products1": [
+          "category": "Accessories",
+          "products": [
             {
-              "name1": "CONFIDENTIAL SATIN ENVELOPES 130.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/pnBowsQEBbgPFzn7QDSb7/10574994da0a9bf0ddfdd57141df1951/3.jpg?w=960&h=640&q=50",
-              "details1": "Satin Pouch Bag which references the covert nature of SS21's Counter Intelligence theme. The pouch is fully lined and closes via a flap and press stud"
+              "name": "CONFIDENTIAL SATIN ENVELOPES 130.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/pnBowsQEBbgPFzn7QDSb7/10574994da0a9bf0ddfdd57141df1951/3.jpg?w=960&h=640&q=50",
+              "details": "Satin Pouch Bag which references the covert nature of SS21's Counter Intelligence theme. The pouch is fully lined and closes via a flap and press stud"
             },
             {
-              "name1": "SISTERHOOD WOOL BERETS Yellow or Cerise or Navy or Ivory 250.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/4AKXPDaZpDMd3XtKeJ07pR/3f188e7db02f987244fc18366450d086/LOOK_4.1.jpg?w=960&h=1440&q=50",
-              "details1": "Hand-crafted wool berets feature our stainless steel Sisterhood Emblem"
+              "name": "SISTERHOOD WOOL BERETS Yellow or Cerise or Navy or Ivory 250.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/4AKXPDaZpDMd3XtKeJ07pR/3f188e7db02f987244fc18366450d086/LOOK_4.1.jpg?w=960&h=1440&q=50",
+              "details": "Hand-crafted wool berets feature our stainless steel Sisterhood Emblem"
             },
             {
-              "name1": "SISTERHOOD SHERIFFS HATS Navy or Olive 375.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/63TSTVTrgNEI0mYtjGcYYe/50cd1ae24ca14c619fca2bcfbab9f05b/LOOK_12.1.jpg?w=960&h=1440&q=50",
-              "details1": "Hand-crafted wool strappy fedora hats feature our stainless steel Sisterhood Emblem"
+              "name": "SISTERHOOD SHERIFFS HATS Navy or Olive 375.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/63TSTVTrgNEI0mYtjGcYYe/50cd1ae24ca14c619fca2bcfbab9f05b/LOOK_12.1.jpg?w=960&h=1440&q=50",
+              "details": "Hand-crafted wool strappy fedora hats feature our stainless steel Sisterhood Emblem"
             },
             {
-              "name1": "LEATHER BODY HOLSTERS 750.00 EUR",
-              "image_url1": "https://images.ctfassets.net/jc4tugmrgmqg/4RmacGzHCYmyVMuTXdfz2r/63a8db57a53fd6a9f50cbbf5b6e6456f/LOOK_9.1.jpg?w=960&h=1440&q=50",
-              "details1": "A cross body leather holster with adjustable chest strap and a stamped side pocket. The holster comes with a removable waist belt, which can be used separately"
+              "name": "LEATHER BODY HOLSTERS 750.00 EUR",
+              "image_url": "https://images.ctfassets.net/jc4tugmrgmqg/4RmacGzHCYmyVMuTXdfz2r/63a8db57a53fd6a9f50cbbf5b6e6456f/LOOK_9.1.jpg?w=960&h=1440&q=50",
+              "details": "A cross body leather holster with adjustable chest strap and a stamped side pocket. The holster comes with a removable waist belt, which can be used separately"
             }
           ]
         }
       ],
-      "link1": "https://www.thebemagugu.com/"
+      "link": "https://www.thebemagugu.com/"
     },
-
-
-
-
-
     {
-      "logo2": "https://images.squarespace-cdn.com/content/v1/5b1482661137a6d3c0a32e72/1550308498933-Z6H2RMITLEZA9K8WDAWI/ke17ZwdGBToddI8pDm48kJw6D7o4-Lunq7pTkCzRLeRZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVF0cE_5f9bjoCM8HBO2W_3lYNM2sli-m9zh-BEtcb-BHKchIJmbV0zSlDpU-SKtj1I/IMG_5610.JPG?format=1500w",
-      "brand_name2": "LaQuan Smith",
-      "CEO2": "LaQuan Smith",
-      "type2": "High Fashion/ Luxury",
-      "price_point2": "$$$$",
-      "categories2": [
+      "logo": "https://images.squarespace-cdn.com/content/v1/5b1482661137a6d3c0a32e72/1550308498933-Z6H2RMITLEZA9K8WDAWI/ke17ZwdGBToddI8pDm48kJw6D7o4-Lunq7pTkCzRLeRZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVF0cE_5f9bjoCM8HBO2W_3lYNM2sli-m9zh-BEtcb-BHKchIJmbV0zSlDpU-SKtj1I/IMG_5610.JPG?format=1500w",
+      "brand_name": "LaQuan Smith",
+      "CEO": "LaQuan Smith",
+      "type": "High Fashion/ Luxury",
+      "price_point": "$$$$",
+      "categories": [
         {
-          "category2": "Tops",
-          "products2": [
+          "category": "Tops",
+          "products": [
             {
-              "name2": "Lisa Marie Knit Top Grey 176.00 USD",
-              "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-tops-lisa-marie-knit-top-2116424040506.jpg?v=1636660391",
-              "details2": "A classic LaQuan piece with endless opportunities for styling. The updated Lisa Marie Knit top featured in grey with long ruched sleeves. Has an elastic neckline to ensure a good and comfortable fit. Pull on and step out"
+              "name": "Lisa Marie Knit Top Grey 176.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-tops-lisa-marie-knit-top-2116424040506.jpg?v=1636660391",
+              "details": "A classic LaQuan piece with endless opportunities for styling. The updated Lisa Marie Knit top featured in grey with long ruched sleeves. Has an elastic neckline to ensure a good and comfortable fit. Pull on and step out"
             },
             {
-              "name2": "Winnie Dress MutliColored 1306.00 USD",
-              "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-dresses-winnie-dress-13542438600762.jpg?v=1636660426",
-              "details2": "Fitted silk faille mini dress, Boning insert in lining, Invisible zipper closure, Voluminous Ruffled Sleeves, Self: 100% Silk, Lining: 100% poly, Manufactured in NYC"
+              "name": "Winnie Dress MutliColored 1306.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-dresses-winnie-dress-13542438600762.jpg?v=1636660426",
+              "details": "Fitted silk faille mini dress, Boning insert in lining, Invisible zipper closure, Voluminous Ruffled Sleeves, Self: 100% Silk, Lining: 100% poly, Manufactured in NYC"
             },
             {
-              "name2": "Frida Geometric Mini Dark Blue 1,500.00 USD",
-              "image_url2": "https://i.pinimg.com/originals/f8/fd/93/f8fd93ba576249d07f48d363ce8a7800.png",
-              "details2": "Geometric transparent printed mini dress, Invisible zipper closure, 70 inch neck tie, Self: 100% dyed poly tulle, Manufactured in NYC"
+              "name": "Frida Geometric Mini Dark Blue 1,500.00 USD",
+              "image_url": "https://i.pinimg.com/originals/f8/fd/93/f8fd93ba576249d07f48d363ce8a7800.png",
+              "details": "Geometric transparent printed mini dress, Invisible zipper closure, 70 inch neck tie, Self: 100% dyed poly tulle, Manufactured in NYC"
             },
             {
-              "name2": "Cutout Mesh and Velvet Catsuit Black 700.00 USD",
-              "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-jumpsuits-cutout-mesh-and-velvet-catsuit-14306115518522.jpg?v=1636660652",
-              "details2": "Self: 60% Mesh (96% Polyester 4% Polyurethane) and 40% Velvet (100% Silk), Manufactured in NYC"
+              "name": "Cutout Mesh and Velvet Catsuit Black 700.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-jumpsuits-cutout-mesh-and-velvet-catsuit-14306115518522.jpg?v=1636660652",
+              "details": "Self: 60% Mesh (96% Polyester 4% Polyurethane) and 40% Velvet (100% Silk), Manufactured in NYC"
             }
           ]
         },
         {
-          "category2": "Bottoms",
-          "products2": [
+          "category": "Bottoms",
+          "products": [
             {
-              "name2": "Latex Moto Pant Dark Green 1,500.00 USD",
-              "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-pants-latex-moto-pant-14184410447930.jpg?v=1636660508",
-              "details2": "Self: 59% Polyurethane 41% Polyester, Manufactured in NYC"
+              "name": "Latex Moto Pant Dark Green 1,500.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-pants-latex-moto-pant-14184410447930.jpg?v=1636660508",
+              "details": "Self: 59% Polyurethane 41% Polyester, Manufactured in NYC"
             },
             {
-              "name2": "Quilted Puffer Teddy Skirt Black 400.00 USD",
-              "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-skirts-quilted-puffer-teddy-skirt-14184388034618.jpg?v=1636660463",
-              "details2": "Self: 100% Nylon, Manufactured in NYC"
+              "name": "Quilted Puffer Teddy Skirt Black 400.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-skirts-quilted-puffer-teddy-skirt-14184388034618.jpg?v=1636660463",
+              "details": "Self: 100% Nylon, Manufactured in NYC"
             },
             {
-              "name2": "Puff Mini Skirt Black 595.00 USD",
-              "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-skirts-puffer-mini-skirt-14306240069690.jpg?v=1636660672",
-              "details2": "Self: 100% Nylon, Manufactured in NYC"
+              "name": "Puff Mini Skirt Black 595.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-skirts-puffer-mini-skirt-14306240069690.jpg?v=1636660672",
+              "details": "Self: 100% Nylon, Manufactured in NYC"
             },
             {
-              "name2": "LaQuan Smith x Jordache Denim Moto Pant Denim 695.00 USD",
-              "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-pants-laquan-smith-x-jordache-denim-moto-pant-14184397570106.jpg?v=1636660476",
-              "details2": "Manufactured in NYC"
+              "name": "LaQuan Smith x Jordache Denim Moto Pant Denim 695.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-pants-laquan-smith-x-jordache-denim-moto-pant-14184397570106.jpg?v=1636660476",
+              "details": "Manufactured in NYC"
             }
           ]
         },
         {
-          "category2": "Shoes",
-          "products2": [
+          "category": "Shoes",
+          "products": [
             {
-              "name2": "LQS Puffer Boot Black 895.00 USD",
-              "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-accessories-35-lqs-puffer-boot-2116740481082.jpg?v=1636660385",
-              "details2": "Puffer Boots"
+              "name": "LQS Puffer Boot Black 895.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-accessories-35-lqs-puffer-boot-2116740481082.jpg?v=1636660385",
+              "details": "Puffer Boots"
             },
             {
-              "name2": "LQS PVC Bootie Black 450.00 USD",
-              "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-accessories-36-lqs-pvc-bootie-2116766498874.jpg?v=1636660386",
-              "details2": "PVC Booties"
+              "name": "LQS PVC Bootie Black 450.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-accessories-36-lqs-pvc-bootie-2116766498874.jpg?v=1636660386",
+              "details": "PVC Booties"
             },
             {
-              "name2": "LQS PVC Thigh-High Black 650.00 USD",
-              "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-accessories-36-lqs-pvc-thigh-high-2116916019258.jpg?v=1636660405",
-              "details2": "PVC Thigh High Boots"
+              "name": "LQS PVC Thigh-High Black 650.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-accessories-36-lqs-pvc-thigh-high-2116916019258.jpg?v=1636660405",
+              "details": "PVC Thigh High Boots"
             },
             {
-              "name2": "LaQuan Smith x ASOS heeled sandal 85.00 USD",
-              "image_url2": "https://di2ponv0v5otw.cloudfront.net/posts/2019/04/23/5cbf59772f48319273858c27/m_5cbf59b2264a551ca71cfbf7.jpg",
-              "details2": "Blue and Black LQS Heelsed Sandal with ankle tie"
+              "name": "LaQuan Smith x ASOS heeled sandal 85.00 USD",
+              "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2019/04/23/5cbf59772f48319273858c27/m_5cbf59b2264a551ca71cfbf7.jpg",
+              "details": "Blue and Black LQS Heelsed Sandal with ankle tie"
             }
           ]
         },
         {
-          "category2": "Accessories",
-          "products2": [
+          "category": "Accessories",
+          "products": [
             {
-              "name2": "`Hoe Bag` Black and White 6,500.00 USD",
-              "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-accessories-hoe-bag-14197481537594.jpg?v=1636660593",
-              "details2": "Self: 100% Mink Fur, Manufactured in NYC"
+              "name": "`Hoe Bag` Black and White 6,500.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-accessories-hoe-bag-14197481537594.jpg?v=1636660593",
+              "details": "Self: 100% Mink Fur, Manufactured in NYC"
             },
             {
-              "name2": "`I am Moving Out` Bag White and Black 9,500.00 USD",
-              "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-accessories-i-am-moving-out-bag-14197479702586.jpg?v=1636660588",
-              "details2": "Self: 100% Fox Fur, Manufactured in NYC"
+              "name": "`I am Moving Out` Bag White and Black 9,500.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/laquan-smith-accessories-i-am-moving-out-bag-14197479702586.jpg?v=1636660588",
+              "details": "Self: 100% Fox Fur, Manufactured in NYC"
             },
             {
-              "name2": "ASOS DESIGN x LaQuan Smith leather cross body bag Red and Black 95.00 USD",
-              "image_url2": "https://images.asos-media.com/products/asos-design-x-laquan-smith-leather-cross-body-bag-with-check-panel/10785185-4?$XXL$&wid=513&fit=constrain",
-              "details2": "LQS leather cross body bag with check panel"
+              "name": "ASOS DESIGN x LaQuan Smith leather cross body bag Red and Black 95.00 USD",
+              "image_url": "https://images.asos-media.com/products/asos-design-x-laquan-smith-leather-cross-body-bag-with-check-panel/10785185-4?$XXL$&wid=513&fit=constrain",
+              "details": "LQS leather cross body bag with check panel"
             },
             {
-              "name2": "ASOS DESIGN x LaQuan Smith embellished mesh durag Black 44.00 USD",
-              "image_url2": "https://images.asos-media.com/products/asos-design-x-laquan-smith-embellished-mesh-durag/10766381-1-black?$XXL$&wid=513&fit=constrain",
-              "details2": "LQS ASOS DESIGN x LaQuan Smith embellished mesh durag"
+              "name": "ASOS DESIGN x LaQuan Smith embellished mesh durag Black 44.00 USD",
+              "image_url": "https://images.asos-media.com/products/asos-design-x-laquan-smith-embellished-mesh-durag/10766381-1-black?$XXL$&wid=513&fit=constrain",
+              "details": "LQS ASOS DESIGN x LaQuan Smith embellished mesh durag"
             }
           ]
         }
       ],
-      "link2": "https://laquansmith.com/"
+      "link": "https://laquansmith.com/"
     },
-
-
-
-
-
     {
-      "logo3": "https://cdn.shopify.com/s/files/1/0669/9705/files/fenoel-logo_9916db6d-3e9c-48db-aa8d-7ea034a956a8.png?height=628&pad_color=fff&v=1623179119&width=1200",
-      "brand_name3": "Fe Noel",
-      "CEO3": "Felisha Noel",
-      "type3": "High Fashion/ Luxury",
-      "price_point3": "$$$$",
-      "categories3": [
+      "logo": "https://cdn.shopify.com/s/files/1/0669/9705/files/fenoel-logo_9916db6d-3e9c-48db-aa8d-7ea034a956a8.png?height=628&pad_color=fff&v=1623179119&width=1200",
+      "brand_name": "Fe Noel",
+      "CEO": "Felisha Noel",
+      "type": "High Fashion/ Luxury",
+      "price_point": "$$$$",
+      "categories": [
         {
-          "category3": "Tops",
-          "products3": [
+          "category": "Tops",
+          "products": [
             {
-              "name3": "Nutmeg Beige Robe 528.00 USD",
-              "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2156_720x.jpg?v=1581447954",
-              "details3": "Nutmeg print, Midi length, Slip on, Belt Tie, Dry clean, Available in short & long length8"
+              "name": "Nutmeg Beige Robe 528.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2156_720x.jpg?v=1581447954",
+              "details": "Nutmeg print, Midi length, Slip on, Belt Tie, Dry clean, Available in short & long length8"
             },
             {
-              "name3": "Daughter of the Soil Knit Sweater 1,495.00 USD",
-              "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2148_720x.jpg?v=1582054935",
-              "details3": "Multi-Color Print Knit, Dry clean, Cropped, Unlined"
+              "name": "Daughter of the Soil Knit Sweater 1,495.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2148_720x.jpg?v=1582054935",
+              "details": "Multi-Color Print Knit, Dry clean, Cropped, Unlined"
             },
             {
-              "name3": "Spice Girl Ruched Top Red 398.00 USD",
-              "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2113_720x.jpg?v=1581446083",
-              "details3": "Red Linen, Puff sleeves, Cropped length, Back hook and snap closure, Pull on, Hand wash"
+              "name": "Spice Girl Ruched Top Red 398.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2113_720x.jpg?v=1581446083",
+              "details": "Red Linen, Puff sleeves, Cropped length, Back hook and snap closure, Pull on, Hand wash"
             },
             {
-              "name3": "Dancehall Jersey Knit Dress Neon Green 1,098.00 USD",
-              "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2213_720x.jpg?v=1581449235",
-              "details3": "Neon Green Sheer Knit Jersey, Slip on, Hand ruched, Dry clean"
+              "name": "Dancehall Jersey Knit Dress Neon Green 1,098.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2213_720x.jpg?v=1581449235",
+              "details": "Neon Green Sheer Knit Jersey, Slip on, Hand ruched, Dry clean"
             }
           ]
         },
         {
-          "category3": "Bottoms",
-          "products3": [
+          "category": "Bottoms",
+          "products": [
             {
-              "name3": "Ginger Sheer Layered Pant 428.00 USD",
-              "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-Fix-2246_720x.jpg?v=1581546029",
-              "details3": "Outer Shell: 100% Linen, Inner Shell: Pleated Chiffon, Multi-Layer, Invisible zip in center back, Dry clean"
+              "name": "Ginger Sheer Layered Pant 428.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-Fix-2246_720x.jpg?v=1581546029",
+              "details": "Outer Shell: 100% Linen, Inner Shell: Pleated Chiffon, Multi-Layer, Invisible zip in center back, Dry clean"
             },
             {
-              "name3": "Red Rasta Linen Pant 368.00 USD",
-              "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2227_720x.jpg?v=1581449728",
-              "details3": "Linen, Invisible zip in center back, Dry clean"
+              "name": "Red Rasta Linen Pant 368.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2227_720x.jpg?v=1581449728",
+              "details": "Linen, Invisible zip in center back, Dry clean"
             },
             {
-              "name3": "Slim Sheer Cargo Pants Brown 328.00 USD",
-              "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2242_720x.jpg?v=1581450713",
-              "details3": "Olive tone, Sheer, Front Zip, Tapered Leg, Utility Pockets, Dry Clean"
+              "name": "Slim Sheer Cargo Pants Brown 328.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2242_720x.jpg?v=1581450713",
+              "details": "Olive tone, Sheer, Front Zip, Tapered Leg, Utility Pockets, Dry Clean"
             },
             {
-              "name3": "Spice Sheer Pant Peach 378.00 USD",
-              "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-Fix-2252_720x.jpg?v=1581450237",
-              "details3": "Peach Sheer, Stitched Stripes, Pockets, Back zip, Dry clean"
+              "name": "Spice Sheer Pant Peach 378.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-Fix-2252_720x.jpg?v=1581450237",
+              "details": "Peach Sheer, Stitched Stripes, Pockets, Back zip, Dry clean"
             }
           ]
         },
         {
-          "category3": "Accessories",
-          "products3": [
+          "category": "Accessories",
+          "products": [
             {
-              "name3": "Lambskin Belt Pouch Cognac 278.00 USD",
-              "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/image_670ecca5-4f00-4041-bfc4-c9978cdb4da4_720x.jpg?v=1548088110",
-              "details3": "Cognac, Genuine lambskin, 144 inches length (wraps twice), Pleated front and waist, Small pouch, Made to order"
+              "name": "Lambskin Belt Pouch Cognac 278.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/image_670ecca5-4f00-4041-bfc4-c9978cdb4da4_720x.jpg?v=1548088110",
+              "details": "Cognac, Genuine lambskin, 144 inches length (wraps twice), Pleated front and waist, Small pouch, Made to order"
             },
             {
-              "name3": "FE NOEL X FASHION OUR FUTURE Scarf 38.00 USD",
-              "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/FOF-Scarf_720x.png?v=1602175573",
-              "details3": "19 x 19 inches, Fabric: 100% Viscose"
+              "name": "FE NOEL X FASHION OUR FUTURE Scarf 38.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/FOF-Scarf_720x.png?v=1602175573",
+              "details": "19 x 19 inches, Fabric: 100% Viscose"
             },
             {
-              "name3": "Vote Baby Vote Scarf",
-              "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/voteby_19x20_05e31fb1-89a8-4c01-9237-f564acdf52ca_720x.png?v=1602174797",
-              "details3": "Two sizes: 19x20 & 34x34, Printed scarf, Fabric: 100% viscose, Dry clean only"
+              "name": "Vote Baby Vote Scarf",
+              "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/voteby_19x20_05e31fb1-89a8-4c01-9237-f564acdf52ca_720x.png?v=1602174797",
+              "details": "Two sizes: 19x20 & 34x34, Printed scarf, Fabric: 100% viscose, Dry clean only"
             }
           ]
         }
       ],
-      "link3": "https://fenoel.com/"
+      "link": "https://fenoel.com/"
     },
-
-
-
- 
-    
     {
-      "logo4": "https://cdn.shopify.com/s/files/1/1280/6143/files/checkout_logo_5_large.png?v=1472609776",
-      "brand_name4": "Muurswag",
-      "CEO4": "Venus Austin",
-      "type4": "Street Wear",
-      "price_point4": "$$",
-      "categories4": [
+      "logo": "https://cdn.shopify.com/s/files/1/1280/6143/files/checkout_logo_5_large.png?v=1472609776",
+      "brand_name": "Muurswag",
+      "CEO": "Venus Austin",
+      "type": "Street Wear",
+      "price_point": "$$",
+      "categories": [
         {
-          "category4": "Tops",
-          "products4": [
+          "category": "Tops",
+          "products": [
             {
-              "name4": "Designer Me Dress/Top Black 39.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_9281.jpg?v=1604250062",
-              "details4": "This cute baroque/animal print button down dress/top is a must have. Features a collar details, front button down closure, loose fit and has stretch, Super comfy and lightweight, 95% Poly, 5% Spandex"
+              "name": "Designer Me Dress/Top Black 39.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_9281.jpg?v=1604250062",
+              "details": "This cute baroque/animal print button down dress/top is a must have. Features a collar details, front button down closure, loose fit and has stretch, Super comfy and lightweight, 95% Poly, 5% Spandex"
             },
             {
-              "name4": "Never Plaid Out Jacket 69.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_5121.jpg?v=1602108243",
-              "details4": "This oversized trench jacket is A Game Changer!, Features: -plaid print  -pockets -collared -button down -100% Poly"
+              "name": "Never Plaid Out Jacket 69.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_5121.jpg?v=1602108243",
+              "details": "This oversized trench jacket is A Game Changer!, Features: -plaid print  -pockets -collared -button down -100% Poly"
             },
             {
-              "name4": "Phoenix Mustard 56.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_23852.jpg?v=1601611689",
-              "details4": "This oversized dress is a must have, This batwing cut dress drapes so nicely on the body. Chic yet loose fitting, not see through and very lightweight. Features a collar button down closure, buttoned cuff sleeves and a tie string in the front. Generous Loose Fit Cut, Material: 80% COTTON, 20% RAYON, Super comfy and lightweight"
+              "name": "Phoenix Mustard 56.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_23852.jpg?v=1601611689",
+              "details": "This oversized dress is a must have, This batwing cut dress drapes so nicely on the body. Chic yet loose fitting, not see through and very lightweight. Features a collar button down closure, buttoned cuff sleeves and a tie string in the front. Generous Loose Fit Cut, Material: 80% COTTON, 20% RAYON, Super comfy and lightweight"
             },
             {
-              "name4": "Persia Maxi Dress 92.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_40672.jpg?v=1597423481",
-              "details4": "This pretty maxi is a wardrobe must have. Features: - a full length maxi dress with deep v-neckline - front button down closure that stops above the knee featuring a slit - string and beads details, and elastic waistline, 100% Polyester"
+              "name": "Persia Maxi Dress 92.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_40672.jpg?v=1597423481",
+              "details": "This pretty maxi is a wardrobe must have. Features: - a full length maxi dress with deep v-neckline - front button down closure that stops above the knee featuring a slit - string and beads details, and elastic waistline, 100% Polyester"
             }
           ]
       },
       {
-          "category4": "Bottoms",
-          "products4": [
+          "category": "Bottoms",
+          "products": [
             {
-              "name4": "Fall Breeze Pants 49.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_23882.jpg?v=1600881035",
-              "details4": "Get in to this earth tone abstract print pants. Features a wide leg cut, high waisted, with side zipper closure and pockets. Very comfy"
+              "name": "Fall Breeze Pants 49.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_23882.jpg?v=1600881035",
+              "details": "Get in to this earth tone abstract print pants. Features a wide leg cut, high waisted, with side zipper closure and pockets. Very comfy"
             },
             {
-              "name4": "Aneesa Jumpsuit Multicolor 74.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/Enlight641.jpg?v=1595536505",
-              "details4": "This abstract print jumpsuit is a fashionista must have. Features cutout details, keyhole cutout, adjustable spaghetti straps, wide leg cut and back zipper closure. Inseam: 31 inches, 100% Poly"
+              "name": "Aneesa Jumpsuit Multicolor 74.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/Enlight641.jpg?v=1595536505",
+              "details": "This abstract print jumpsuit is a fashionista must have. Features cutout details, keyhole cutout, adjustable spaghetti straps, wide leg cut and back zipper closure. Inseam: 31 inches, 100% Poly"
             },
             {
-              "name4": "Sistah Souljah Camo Pants Orange 46.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_1831_9e54dd16-735c-4a81-a67c-44b73ebcb1b2.jpg?v=1590515800",
-              "details4": "Babe, get into these paperbag high waisted camo pants. Pants feature a front button and zipper closure, comes with a belt, side leg cargo pocket, elastic ankles with tie straps. Baggy fit with cinched waistline. Material has a sandy texture to it"
+              "name": "Sistah Souljah Camo Pants Orange 46.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_1831_9e54dd16-735c-4a81-a67c-44b73ebcb1b2.jpg?v=1590515800",
+              "details": "Babe, get into these paperbag high waisted camo pants. Pants feature a front button and zipper closure, comes with a belt, side leg cargo pocket, elastic ankles with tie straps. Baggy fit with cinched waistline. Material has a sandy texture to it"
             },
             {
-              "name4": "Exposure Skirt 58.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_0820.jpg?v=1605149617",
-              "details4": "Expose those legs babe! This edgy skirt is a stunner! Features all around vertical zippers and a solid waist band. This skirt can be worn many ways, get into it, 95% Poly, 5% Spandex"
+              "name": "Exposure Skirt 58.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_0820.jpg?v=1605149617",
+              "details": "Expose those legs babe! This edgy skirt is a stunner! Features all around vertical zippers and a solid waist band. This skirt can be worn many ways, get into it, 95% Poly, 5% Spandex"
             }
           ]
       },
       {
-          "category4": "Shoes",
-          "products4": [
+          "category": "Shoes",
+          "products": [
             {
-              "name4": "Ryder Heels Nispey Blue, Black, Red, or Orange 48.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/ScreenShot2020-05-06at11.00.30AM.png?v=1599611929",
-              "details4": "These paisley print heels are to die for. Heel Height Approx: 5.5 inches, Platform Height Approx: 1.5 inches, True to Size, Around-The-Ankle Lace-Up Closure, Platform Sole, Chunky Heel, Lightly Padded Insole"
+              "name": "Ryder Heels Nispey Blue, Black, Red, or Orange 48.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/ScreenShot2020-05-06at11.00.30AM.png?v=1599611929",
+              "details": "These paisley print heels are to die for. Heel Height Approx: 5.5 inches, Platform Height Approx: 1.5 inches, True to Size, Around-The-Ankle Lace-Up Closure, Platform Sole, Chunky Heel, Lightly Padded Insole"
             },
             {
-              "name4": "Show Me Off Heels Clear 45.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/ScreenShot2020-07-31at2.32.53PM.png?v=1596644381",
-              "details4": "These clear pumps are a closet must have. Show off your beautiful feet in these pumps, you cant go wrong. Effortless! Pointed Toe, Slip-On Design, Clear Top/Clear Perspex Heel, Vegan-Friendly, Heel Height: Approx 3.5', Snug Fit, order a 1/2 size up"
+              "name": "Show Me Off Heels Clear 45.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/ScreenShot2020-07-31at2.32.53PM.png?v=1596644381",
+              "details": "These clear pumps are a closet must have. Show off your beautiful feet in these pumps, you cant go wrong. Effortless! Pointed Toe, Slip-On Design, Clear Top/Clear Perspex Heel, Vegan-Friendly, Heel Height: Approx 3.5', Snug Fit, order a 1/2 size up"
             },
             {
-              "name4": "Run It Up Booties White 55.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/2.png?v=1580839686",
-              "details4": "These Run It Up combat booties features a leather based upper, platform sole with rivets, lace up closure, metallic hardware. Perfect for any casual look. Lace up closure, Rounded toe, Platform sole, Leather upper, Imported"
+              "name": "Run It Up Booties White 55.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/2.png?v=1580839686",
+              "details": "These Run It Up combat booties features a leather based upper, platform sole with rivets, lace up closure, metallic hardware. Perfect for any casual look. Lace up closure, Rounded toe, Platform sole, Leather upper, Imported"
             },
             {
-              "name4": "Strut Your Stuff Sandals Red 40.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/DSC04251copy.jpg?v=1579629759",
-              "details4": "These Fur Mule Sandals are super chic. Features a fluffy feather trimming, an open toe design, cushioned insole, slide-in fit, and rhinestone chunky block heel. This pair is calling your name"
+              "name": "Strut Your Stuff Sandals Red 40.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/DSC04251copy.jpg?v=1579629759",
+              "details": "These Fur Mule Sandals are super chic. Features a fluffy feather trimming, an open toe design, cushioned insole, slide-in fit, and rhinestone chunky block heel. This pair is calling your name"
             }
           ]
         },
         {
-          "category4": "Accessories",
-          "products4": [
+          "category": "Accessories",
+          "products": [
             {
-              "name4": "Basketball Swagg Bag Multi 80.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/detail_pic1_a0574497-e462-430a-b412-de3c4b46c4ff.jpg?v=1603294786",
-              "details4": "The perfect swag bag. This basketball clutch features handles and detachable strap with gold chain details. 9W X 9H X 9D, Polyurethane, Mixed Metal"
+              "name": "Basketball Swagg Bag Multi 80.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/detail_pic1_a0574497-e462-430a-b412-de3c4b46c4ff.jpg?v=1603294786",
+              "details": "The perfect swag bag. This basketball clutch features handles and detachable strap with gold chain details. 9W X 9H X 9D, Polyurethane, Mixed Metal"
             },
             {
-              "name4": "No Shady Bizness Hat 58.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/ScreenShot2020-04-30at12.50.57AM.png?v=1595042608",
-              "details4": "Okay ladies, can we get in to this oversized floppy straw sun hat, perfect for blocking shade ;) Hat is stitched in place on the side, you carefully cut the stitch if you would like to unroll it"
+              "name": "No Shady Bizness Hat 58.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/ScreenShot2020-04-30at12.50.57AM.png?v=1595042608",
+              "details": "Okay ladies, can we get in to this oversized floppy straw sun hat, perfect for blocking shade ;) Hat is stitched in place on the side, you carefully cut the stitch if you would like to unroll it"
             },
             {
-              "name4": "Wanderlust Clutch 59.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_9571.jpg?v=1595042592",
-              "details4": "We are in love with this boho chic vintage style clutch"
+              "name": "Wanderlust Clutch 59.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_9571.jpg?v=1595042592",
+              "details": "We are in love with this boho chic vintage style clutch"
             },
             {
-              "name4": "So Plaid Out Clutch 35.00 USD",
-              "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/pic3-1.jpg?v=1602107353",
-              "details4": "This warm fuzzy clutch bag is perfect for the season. Plaid Pattern Fabric Pouch w/ Leather Tassels - 13.5W X 9.25H - Polyurethane,Mixed Metal"
+              "name": "So Plaid Out Clutch 35.00 USD",
+              "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/pic3-1.jpg?v=1602107353",
+              "details": "This warm fuzzy clutch bag is perfect for the season. Plaid Pattern Fabric Pouch w/ Leather Tassels - 13.5W X 9.25H - Polyurethane,Mixed Metal"
             }
           ]
         }
       ],
-      "link4": "https://www.muurswagg.com/"
+      "link": "https://www.muurswagg.com/"
     }
   ]
   
