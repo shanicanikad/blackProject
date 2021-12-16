@@ -4,141 +4,141 @@ const Schema = mongoose.Schema;
 const Womenswear = new Schema({
 
   logo1: String,
-  brand_name: String,
-  CEO: String,
-  type: String,
-  price_point: String,
-  categories: [
+  brand_name1: String,
+  CEO1: String,
+  type1: String,
+  price_point1: String,
+  categories1: [
     {
-      category: String,
-      products: [
+      category1: String,
+      products1: [
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name1: String,
+          image_url1: String,
+          details1: String,
         },
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name1: String,
+          image_url1: String,
+          details1: String,
         },
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name1: String,
+          image_url1: String,
+          details1: String,
         },
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name1: String,
+          image_url1: String,
+          details1: String,
         },
       ],
     },
   ],
-  link: String, 
+  link1: String, 
 
 
   logo2: String,
-  brand_name: String,
-  CEO: String,
-  type: String,
-  price_point: String,
-  categories: [
+  brand_name2: String,
+  CEO2: String,
+  type2: String,
+  price_point2: String,
+  categories2: [
     {
-      category: String,
-      products: [
+      category2: String,
+      products2: [
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name2: String,
+          image_url2: String,
+          details2: String,
         },
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name2: String,
+          image_url2: String,
+          details2: String,
         },
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name2: String,
+          image_url2: String,
+          details2: String,
         },
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name2: String,
+          image_url2: String,
+          details2: String,
         },
       ],
     },
   ],
-  link: String,
+  link2: String,
 
   logo3: String,
-  brand_name: String,
-  CEO: String,
-  type: String,
-  price_point: String,
-  categories: [
+  brand_name3: String,
+  CEO3: String,
+  type3: String,
+  price_point3: String,
+  categories3: [
     {
-      category: String,
-      products: [
+      category3: String,
+      products3: [
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name3: String,
+          image_url3: String,
+          details3: String,
         },
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name3: String,
+          image_url3: String,
+          details3: String,
         },
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name3: String,
+          image_url3: String,
+          details3: String,
         },
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name3: String,
+          image_url3: String,
+          details3: String,
         },
       ],
     },
   ],
-  link: String,
+  link3: String,
 
   logo4: String,
-  brand_name: String,
-  CEO: String,
-  type: String,
-  price_point: String,
-  categories: [
+  brand_name4: String,
+  CEO4: String,
+  type4: String,
+  price_point4: String,
+  categories4: [
     {
-      category: String,
-      products: [
+      category4: String,
+      products4: [
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name4: String,
+          image_url4: String,
+          details4: String,
         },
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name4: String,
+          image_url4: String,
+          details4: String,
         },
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name4: String,
+          image_url4: String,
+          details4: String,
         },
         {
-          name: String,
-          image_url: String,
-          details: String,
+          name4: String,
+          image_url4: String,
+          details4: String,
         },
       ],
     },
   ],
-  link: String,
+  link4: String,
 });
 
 module.exports = mongoose.model("Womenswear", Womenswear);
